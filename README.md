@@ -34,6 +34,6 @@ I'm a **Software Engineer** with a passion for building scalable, secure, and ef
 
 ## Contact Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0e76a8)](https://www.linkedin.com/in/aniketkr97/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0e76a8)](https://www.linkedin.com/in/aniketkumar1997/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/aniketkr97)  
 
