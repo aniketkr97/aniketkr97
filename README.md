@@ -8,6 +8,8 @@ I'm a **Software Engineer** with a passion for building scalable, secure, and ef
 - 💬 Ask me about: **Python**, **SQL**, **AWS**, **C++**, and **Machine Learning**.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniketkr97/)  
 
+![Profile Views](https://komarev.com/ghpvc/?username=aniketkr97&color=blue)
+
 ---
 
 ## Technologies & Tools  
