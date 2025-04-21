@@ -1,12 +1,12 @@
 # Hi there, I'm Aniket Kumar 👋  
 
 ## About Me  
+## 🌐 Website: https://aniketkr.com
 
 I'm a **Software Engineer** with a passion for building scalable, secure, and efficient software solutions. My expertise spans **cloud infrastructure**, **data engineering**, and **DevOps**.  
-
 - 🌱 I’m currently working on: **Docker**, **Kubernetes**, **Terraform**, and systems for hosting **ML and NLP models**.  
 - 💬 Ask me about: **Python**, **SQL**, **AWS**, **C++**, and **Machine Learning**.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniketkr97/),  [Website](https://aniketkr.com) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aniketkr97/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketkr97&color=blue)
 
