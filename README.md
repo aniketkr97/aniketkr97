@@ -2,6 +2,8 @@
 
 ## About Me  
 ## 🌐 Website: https://aniketkr.com
+## ✏️ Blog: https://aniketkr.com/#blog
+
 
 I'm a **Software Engineer** with a passion for building scalable, secure, and efficient software solutions. My expertise spans **cloud infrastructure**, **data engineering**, and **DevOps**.  
 - 🌱 I’m currently working on: **Docker**, **Kubernetes**, **Terraform**, and systems for hosting **ML and NLP models**.  
