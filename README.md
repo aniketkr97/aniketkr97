@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aniket-kmr/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/aniketkr97)
+[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://aniketkr97.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aniketkr612@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketkr97&color=0e76a8&style=for-the-badge)
 
@@ -13,15 +14,9 @@
 
 ## About Me
 
-Senior Infrastructure Engineer with 4+ years building and operating
-production systems at scale across AWS, GCP, and Azure. I specialize
-in infrastructure that doesn't bottleneck engineers — self-service,
-reliable, and cost-efficient by design.
+Senior Infrastructure Engineer with 4+ years building and operating production systems at scale across AWS, GCP, and Azure. I specialize in infrastructure that doesn't bottleneck engineers — self-service, reliable, and cost-efficient by design.
 
-Currently at **Sprinklr**, architecting the orchestration backbone that
-powers 200K+ monthly workflow executions across 13,000+ VMs.
-Previously at **23andMe**, building GDPR/HIPAA-compliant infrastructure
-for petabyte-scale genomics data.
+Currently at **Sprinklr**, architecting the orchestration backbone that powers 200K+ monthly workflow executions across 13,000+ VMs. Previously at **23andMe**, building GDPR/HIPAA-compliant infrastructure for petabyte-scale genomics data.
 
 **What I care about:**
 - Infrastructure that enables engineers to ship without waiting on me
@@ -84,27 +79,16 @@ for petabyte-scale genomics data.
 ## Featured Work
 
 ### Infrastructure Orchestration Platform — Sprinklr
-Built the orchestration backbone that powers all Sprinklr products.
-Apache Airflow on EKS managing 13,000+ VMs, 200K+ monthly executions
-across 42+ environments. Terraform + Helm. Designed for reliability:
-99.99% uptime, <15min MTTR, self-healing and self-scaling.
+Built the orchestration backbone that powers all Sprinklr products. Apache Airflow on EKS managing 13,000+ VMs, 200K+ monthly executions across 42+ environments. Terraform + Helm. Designed for reliability: 99.99% uptime, <15min MTTR, self-healing and self-scaling.
 
 ### Multi-Region Disaster Recovery — Sprinklr
-Designed and automated multi-region failover infrastructure using
-Terraform. Cross-region replication, health checks, instant failover.
-Zero manual intervention. 35% YoY cost reduction through intelligent
-auto-scaling and reserved instance management.
+Designed and automated multi-region failover infrastructure using Terraform. Cross-region replication, health checks, instant failover. Zero manual intervention. 35% YoY cost reduction through intelligent auto-scaling and reserved instance management.
 
 ### Genomics Data Infrastructure — 23andMe
-Built encryption and compliance infrastructure for petabyte-scale
-genetic data: AWS KMS + PKI, automated key rotation, GDPR/HIPAA/SOC 2
-compliance. Zero breaches. Unlocked enterprise pharma partnerships.
-Reduced latency 40%, throughput 30%.
+Built encryption and compliance infrastructure for petabyte-scale genetic data: AWS KMS + PKI, automated key rotation, GDPR/HIPAA/SOC 2 compliance. Zero breaches. Unlocked enterprise pharma partnerships. Reduced latency 40%, throughput 30%.
 
 ### Real-Time ML Inference Platform — Scry AI
-Scaled distributed ML inference platform to 10M+ daily events with
-99.9% uptime and sub-second P99 latency. Security-first: 90% reduction
-in critical vulnerabilities, automated scanning on every deploy.
+Scaled distributed ML inference platform to 10M+ daily events with 99.9% uptime and sub-second P99 latency. Security-first: 90% reduction in critical vulnerabilities, automated scanning on every deploy.
 
 ---
 
@@ -122,51 +106,12 @@ in critical vulnerabilities, automated scanning on every deploy.
 
 ## Let's Talk
 
-Open to discussing infrastructure architecture, reliability engineering,
-AI-powered automation, or cloud cost optimization.
+Open to discussing infrastructure architecture, reliability engineering, AI-powered automation, or cloud cost optimization.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aniket-kmr/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aniketkr61
-
-</div>
-
----
-Key changes I made:
-
-✅ Removed emojis everywhere — professional profile, not a personal blog
-✅ Added metrics table — instant impact, scannable in 10 seconds
-✅ Rewrote About Me — sounds like a senior engineer, not a job listing
-✅ Featured Work > Projects — framed as production engineering, not side projects
-✅ Updated all metrics — matches your improved resume (200K+, 99.99%, $500K+)
-✅ Removed duplicate GitHub streak — one stats widget is enough
-✅ Fixed LinkedIn URL — used aniket-kmr/ (confirm which is correct)
-✅ Removed website badge — confirm which URL is live before adding back
-✅ Tighter language — "systems that heal themselves", "doesn't bottleneck engineers"
-
----
-Confirm two things and I'll finalize:
-1. Correct LinkedIn URL?
-2. Website URL to include?
-
-✻ Cogitated for 39s
-
-❯ aniket-kmr/ this is correct here,
-  https://aniketkr97.github.io/
-  this is my webiste here
-
-Two quick fixes — update the header badges and the footer:
-
-Header (replace the badges section):
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aniket-kmr/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://ani
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aniketkr612@gmail.com)
-
-Footer (replace the connect section):
-[![LinkedIn](https://img.shields.io/badge/-Connect-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://w/)
 [![Website](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://aniketkr97.github.io/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aniketkr612@gmail.com)
 
----
+</div>
