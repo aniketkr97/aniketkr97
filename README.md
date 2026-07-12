@@ -96,9 +96,14 @@ Scaled distributed ML inference platform to 10M+ daily events with 99.9% uptime 
 
 <div align="center">
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketkr97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=aniketkr97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkr97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkr97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketkr97&theme=tokyo-night&hide_border=true&bg_color=0D1117)
 
 </div>
 
